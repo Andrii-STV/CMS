@@ -11,6 +11,8 @@ require_once ROOT_PATH . 'src/Router.php';
 require_once ROOT_PATH . 'src/Entity.php';
 require_once ROOT_PATH . 'model/Page.php';
 
+
+
 //removes warnings from the output
 error_reporting(E_ALL ^ E_WARNING); 
 
